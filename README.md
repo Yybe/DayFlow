@@ -78,4 +78,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Made with ❤️ by Antigravity**
