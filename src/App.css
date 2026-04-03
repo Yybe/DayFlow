@@ -1,0 +1,4 @@
+/* App root — do not constrain layout */
+#root {
+  min-height: 100vh;
+}
